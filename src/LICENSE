@@ -1,0 +1,15 @@
+== Source Code License V1.0 ==
+
+用记事本打开HTML就可以编辑了
+这需要Java32环境运行
+
+各个文件位置：
+
+minecraft.jar: bin\minecraft.jar
+LWJGL 2.9.0: LWJGL\
+加载中显示的图片: bg\
+网页CSS: style\
+
+MCL.ico是网页图标
+
+== End ==
